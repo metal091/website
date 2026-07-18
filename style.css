@@ -28,3 +28,8 @@ h1{
    margin-left: 30px;
    width: 200px;
 }
+p:hover{
+    background-color: lch(88.43% 88.34 93.21 / 0.808);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
